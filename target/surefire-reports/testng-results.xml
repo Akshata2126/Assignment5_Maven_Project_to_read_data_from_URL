@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="4848" started-at="2019-02-09T11:29:43Z" finished-at="2019-02-09T11:29:48Z">
+    <groups>
+    </groups>
+    <test name="App" duration-ms="4848" started-at="2019-02-09T11:29:43Z" finished-at="2019-02-09T11:29:48Z">
+      <class name="com.mycompany.ReadURL.App">
+        <test-method status="PASS" signature="readJsonFromUrl()[pri:0, instance:com.mycompany.ReadURL.App@154909b]" name="readJsonFromUrl" is-config="true" duration-ms="3598" started-at="2019-02-09T16:59:43Z" finished-at="2019-02-09T16:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJsonFromUrl -->
+        <test-method status="PASS" signature="PrintData()[pri:1, instance:com.mycompany.ReadURL.App@154909b]" name="PrintData" duration-ms="594" started-at="2019-02-09T16:59:47Z" finished-at="2019-02-09T16:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintData -->
+        <test-method status="PASS" signature="TestOutput()[pri:2, instance:com.mycompany.ReadURL.App@154909b]" name="TestOutput" duration-ms="623" started-at="2019-02-09T16:59:47Z" finished-at="2019-02-09T16:59:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOutput -->
+      </class> <!-- com.mycompany.ReadURL.App -->
+    </test> <!-- App -->
+  </suite> <!-- Suite1 -->
+</testng-results>
